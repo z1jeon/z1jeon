@@ -2,7 +2,7 @@
 - 👀 I’m interested in analytics
 - 🌱 I’m currently learning international business and business analytics
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email: z1jeon22@gmail.com  (personal)/ jjeon7@gwmail.gwu.edu (school)
+- 📫 How to reach me email: z1jeon22@gmail.com  (personal)/ jiwon_jeon@navyfederal.org (work)
 
 <!---
 z1jeon/z1jeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
