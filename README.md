@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @z1jeon
 - 👀 I’m interested in analytics
-- 🌱 I’m currently learning international business and business analytics
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Information System
 - 📫 How to reach me email: z1jeon22@gmail.com  (personal)/ jiwon_jeon@navyfederal.org (work)
 
 <!---
